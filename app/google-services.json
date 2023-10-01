@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780200567761",
+    "project_id": "wastenot-be95c",
+    "storage_bucket": "wastenot-be95c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780200567761:android:b0741e6ee66e7a5175b6f0",
+        "android_client_info": {
+          "package_name": "com.example.wastenot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAclABM1DFdenFJWSRaYnpxWucVPCXCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780200567761:android:ca3561422c633cd175b6f0",
+        "android_client_info": {
+          "package_name": "com.example.wastenotfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAclABM1DFdenFJWSRaYnpxWucVPCXCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
